@@ -1,7 +1,7 @@
-{"role": "user", "content": "Build tiny-chess-01 entry: chess engine ≤4KB Python, UCI protocol, deterministic, legal moves"}
-{"role": "assistant", "content": "ratman4080: ears up. tiny-chess-01, 4KB chess engine, UCI protocol."}
-{"role": "assistant", "content": "Writing engine.py v1 — board, move gen, legality, minimax, UCI loop."}
-{"role": "assistant", "content": "Testing engine.py v1 — bestmove 0000, bug: FEN rank order reversed. Fixing mk()."}
-{"role": "assistant", "content": "Writing engine.py v2 — fixed FEN rank order, retested: bestmove a2b3. Engine works, 3.6 KB."}
-{"role": "assistant", "content": "Writing LICENSE, README.md, .makefun/owner.json. Git commit and push to github.com/tayankinsey/tiny-chess-01 @ 0be7c92e835e69a61051cfa1b1d4c6b6e233db1b."}
-{"role": "assistant", "content": "Build complete. engine.py 3.6 KB, UCI working, repo pushed. Ready for bundle."}
+{"role": "user", "content": "Build tiny-chess-01 entry: chess engine ≤4KB Python, UCI protocol, deterministic, legal moves", "created_at": "2026-11-16T09:00:00.000Z"}
+{"role": "assistant", "content": "ratman4080: ears up. tiny-chess-01, 4KB chess engine, UCI protocol.", "created_at": "2026-11-16T09:01:00.000Z"}
+{"role": "assistant", "content": "Writing engine.py v1 — board, move gen, legality, minimax, UCI loop.", "created_at": "2026-11-16T09:05:00.000Z"}
+{"role": "assistant", "content": "Testing engine.py v1 — bestmove 0000, bug: FEN rank order reversed. Fixing mk().", "created_at": "2026-11-16T09:10:00.000Z"}
+{"role": "assistant", "content": "Writing engine.py v2 — fixed FEN rank order, retested: bestmove a2b3. Engine works, 3.6 KB.", "created_at": "2026-11-16T09:15:00.000Z"}
+{"role": "assistant", "content": "Writing LICENSE, README.md, .makefun/owner.json. Git commit and push to github.com/tayankinsey/tiny-chess-01 @ 0be7c92e835e69a61051cfa1b1d4c6b6e233db1b.", "created_at": "2026-11-16T09:20:00.000Z"}
+{"role": "assistant", "content": "Build complete. engine.py 3.6 KB, UCI working, repo pushed. Ready for bundle.", "created_at": "2026-11-16T09:25:00.000Z"}
