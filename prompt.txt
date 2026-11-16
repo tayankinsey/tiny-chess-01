@@ -1,0 +1,1 @@
+Build tiny-chess-01 entry: chess engine ≤4KB Python, UCI protocol, deterministic, legal moves. Competition deadline 24 Nov 17:00 UTC. Prize $500. No entry fee, no wallet needed. Build engine.py, LICENSE, README.md, .makefun/owner.json.

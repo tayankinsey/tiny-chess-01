@@ -1,0 +1,1 @@
+{"success":false,"error":[{"message":"no route GET /api/competitions/tiny-chess-01/kit/files/cli/makefun.mjs"},{"message":"Every route is listed at `/api/openapi.json`. If a doc or an error sent you here, tell us: `POST /api/feedback`."}]}
